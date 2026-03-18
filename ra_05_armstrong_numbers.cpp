@@ -1,5 +1,13 @@
 // armstrong number.
 
+/*
+	153 = 1^3 + 5^3 + 3^3
+	9474 = 9^4 + 4^4 + 7^4 + 4^4
+*/
+
+
+
+
 # include <iostream>
 # include <cmath>
 using namespace std;

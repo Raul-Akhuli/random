@@ -1,5 +1,9 @@
 // strong
 
+/*
+	145 = 1! + 4! + 5!
+	40585 = 4! + 0! + 5! + 8! + 5!
+*/
 
 # include <iostream>
 using namespace std;

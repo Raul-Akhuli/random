@@ -1,5 +1,11 @@
 // perfect
 
+/*
+	6 = 1 + 2 + 3
+	28 = 1 + 2 + 4 + 7 + 14
+	496 = 1 + 2 + 4 + 8 + 16 + 31 + 62 + 124 + 248
+*/
+
 # include <iostream>
 using namespace std;
 
